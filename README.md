@@ -18,8 +18,9 @@ El pin Trigger está conectado al GPIO 4 de la ESP32.
 El pin Echo está conectado al GPIO 2 de la ESP32.
 Pantalla LCD 20x4: La pantalla LCD está conectada utilizando el protocolo I2C a la ESP32, con la dirección I2C configurada a 0x27.
 
+(![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_174909800.png).
 
-Descripción del código
+## Descripción del código
 El código está diseñado para leer datos de los sensores DHT22 y HC-SR04, y mostrar la información en un monitor serie y en la pantalla LCD. El flujo de la ejecución es el siguiente:
 
 Configuración del sensor DHT22: Se inicializa el sensor DHT22 en el pin GPIO 15.

@@ -119,6 +119,9 @@ Los valores de temperatura, humedad y distancia también se envían al monitor s
 Resultados esperados
 Al ejecutar el código, los resultados esperados son:
 
+
+
+
 En el monitor serie:
 En la pantalla LCD: La información se actualizará cada 2 segundos, mostrando la temperatura, humedad y distancia alternadamente en la pantalla LCD.
 

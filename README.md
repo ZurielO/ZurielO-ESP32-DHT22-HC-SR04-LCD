@@ -17,6 +17,8 @@ Sensor HC-SR04:
 El pin Trigger está conectado al GPIO 4 de la ESP32.
 El pin Echo está conectado al GPIO 2 de la ESP32.
 Pantalla LCD 20x4: La pantalla LCD está conectada utilizando el protocolo I2C a la ESP32, con la dirección I2C configurada a 0x27.
+
+
 Descripción del código
 El código está diseñado para leer datos de los sensores DHT22 y HC-SR04, y mostrar la información en un monitor serie y en la pantalla LCD. El flujo de la ejecución es el siguiente:
 
@@ -120,7 +122,7 @@ Resultados esperados
 Al ejecutar el código, los resultados esperados son:
 En el monitor serie:
 
-(![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_173225804.png?raw=true).
+(![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_173007121.png?raw=true).
 
 En la pantalla LCD: La información se actualizará cada 2 segundos, mostrando la temperatura, humedad y distancia alternadamente en la pantalla LCD.
 

@@ -129,7 +129,7 @@ En la pantalla LCD: La información se actualizará cada 2 segundos, mostrando l
 (![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_173203955.png).
 
 
-(![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_173225804.png?raw=true).
+(![Texto alternativo](https://github.com/ZurielO/ZurielO-ESP32-DHT22-HC-SR04-LCD/blob/main/imagen_2024-12-15_173143826.png).
 
 ## Conclusión
 Esta práctica muestra cómo integrar varios sensores con la placa ESP32 y utilizar una pantalla LCD para la visualización de los datos en tiempo real. La utilización de los sensores DHT22 para medir temperatura y humedad, junto con el HC-SR04 para medir distancias, ofrece una solución útil para aplicaciones de monitoreo ambiental e IoT. La práctica es una excelente base para proyectos más complejos que requieran monitoreo de múltiples variables.
